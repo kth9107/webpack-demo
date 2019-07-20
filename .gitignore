@@ -1,0 +1,9 @@
+/node_modules
+/build
+/dist
+.ideal
+package-lock.json
+
+
+
+
